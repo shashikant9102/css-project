@@ -1,0 +1,45 @@
+body {
+  background-color: coral;
+}
+
+.head {
+  color: darkblue;
+}
+
+#bglime {
+  background-color: lime;
+}
+
+#bglime {
+  color: red;
+}
+
+p {
+  color: white;
+}
+
+#para {
+  color: green;
+}
+
+#para {
+  color: black;
+  font-size: 25px;
+}
+
+a:first-of-type {
+  background-color: yellow;
+}
+
+a:last-of-type {
+  background-color: blue;
+  color: white;
+}
+
+ol li:nth-child(2) {
+  color: blue;
+}
+
+ol li:nth-child(3) {
+  color: red;
+}
